@@ -1,6 +1,6 @@
 # 🌟 Windows Cleaner
 
-cleaner — что он делает и зачем нужен.
+cleaner — есть обычная и глубокая очистка
 
 ---
 
@@ -19,7 +19,7 @@ cleaner — что он делает и зачем нужен.
 git clone https://github.com/cpythonkiller/Windows-Cleaner.git
 
 # Установи зависимости
-pip install -r requirements.txt
+pip install elevate
 
 # Запуск
 python cleaner.py
