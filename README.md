@@ -23,6 +23,7 @@ pip install elevate
 
 # Запуск
 python cleaner.py
+```
 
 <br><br><br>
 
@@ -49,3 +50,4 @@ pip install elevate
 
 # Launch
 python cleaner.py
+```
