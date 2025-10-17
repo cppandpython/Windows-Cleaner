@@ -4,16 +4,18 @@
 
 ## en
 
+<br>
+
 cleaner — offers both regular and deep cleaning.
 
----
+<br>
 
 ## 🚀 Possibilities
 
 - ✅ Regular and deep cleaning
 - ⚙️ Easy to use and expand
 
----
+<br>
 
 ## 🧰 Installation
 
@@ -38,16 +40,18 @@ python cleaner.py
 
 ## ru
 
+<br>
+
 cleaner — есть обычная и глубокая очистка
 
----
+<br>
 
 ## 🚀 Возможности
 
 - ✅ Обычная и глубокая очистка
 - ⚙️ Простой в использовании и расширяемый
 
----
+<br>
 
 ## 🧰 Установка
 
