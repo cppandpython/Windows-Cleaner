@@ -6,7 +6,7 @@
 
 <br>
 
-cleaner — offers both regular and deep cleaning.
+cleaner — offers both regular and deep cleaning
 
 <br>
 
