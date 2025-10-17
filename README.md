@@ -7,8 +7,8 @@ cleaner — есть обычная и глубокая очистка
 
 ## 🚀 Возможности
 
-- ✅ обычная и глубокая очистка
-- ⚙️ простой в использовании и расширяемый
+- ✅ Обычная и глубокая очистка
+- ⚙️ Простой в использовании и расширяемый
 
 ---
 
@@ -22,4 +22,30 @@ git clone https://github.com/cpythonkiller/Windows-Cleaner.git
 pip install elevate
 
 # Запуск
+python cleaner.py
+
+<br><br><br>
+
+## en
+cleaner — offers both regular and deep cleaning.
+
+---
+
+## 🚀 Possibilities
+
+- ✅ Regular and deep cleaning
+- ⚙️ Easy to use and expand
+
+---
+
+## 🧰 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/cpythonkiller/Windows-Cleaner.git
+
+# Install depending
+pip install elevate
+
+# Launch
 python cleaner.py
