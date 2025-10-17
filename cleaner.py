@@ -1,9 +1,9 @@
 # CREATOR 
 # NAME: Vladislav 
 # SURNAME: Khudash  
-# AGE: 16
+# AGE: 17
 
-# DATE: 21.07.2025
+# DATE: 18.10.2025
 # APP: WINDOWS_CLEANER
 # TYPE: CLEANER
 # VERSION: LATEST
@@ -27,19 +27,13 @@ from glob import glob
 
 
 if platform != 'win32': 
-    print(f'NOT SUPPORTED {platform.upper()}')
-
-    try: input()
-    except: ...
-    
+    print(f'NOT SUPPORTED {platform}')
+    input()
     abort()
 
 if not 'onefile' in __file__:
-    try: 
-        from elevate import elevate
-        elevate()
-    except: 
-        abort()
+    from elevate import elevate
+    elevate()
 
 USER = getlogin()
 
@@ -218,21 +212,12 @@ def main():
     left = (shell_width // 2 - 16) - (output_len + 1)
     right = (shell_width // 2 - 17) - output_len
 
-    try: 
-        input(
-            f'/{"-":-^{left}}' + \
-            '<Cleaning completed successfully ' + \
-            f'{round(cleared_MB, 1)} MB>{"-":-^{right}}\\\n'
-        )
-    except: 
-        abort()
+
+    input(
+        f'/{"-":-^{left}}' + \
+        '<Cleaning completed successfully ' + \
+        f'{round(cleared_MB, 1)} MB>{"-":-^{right}}\\\n'
+    )
 
 
-try: 
-    main()
-except BaseException as error:
-    try:
-        input(f'Why: An error occurred during cleaning\nType: {type(error).__name__}\nDescription: {error}\n') 
-    except: ...
-
-    abort() 
+main()
