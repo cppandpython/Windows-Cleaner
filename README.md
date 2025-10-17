@@ -25,6 +25,8 @@ pip install elevate
 python cleaner.py
 ```
 
+<br><br>
+
 ![cleaner](cleaner.png)
 
 
@@ -54,6 +56,8 @@ pip install elevate
 # Launch
 python cleaner.py
 ```
+
+<br><br>
 
 ![cleaner](cleaner.png)
 
