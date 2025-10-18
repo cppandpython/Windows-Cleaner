@@ -18,7 +18,6 @@ from os import (
     rmdir, 
     remove, 
     getlogin, 
-    system as clear_output
 )
 from os.path import isdir, exists, getsize
 from subprocess import run as cmd, DEVNULL
@@ -165,7 +164,7 @@ def main():
 
     while True:
         try: 
-            clear_output('cls')
+            cmd(['cls'])
 
             match input('Deep cleaning\nYes\\No: ').lower().strip():
                 case 'exit': 
@@ -183,7 +182,7 @@ def main():
         else: 
             break
 
-    clear_output('cls')
+    cmd(['cls'])
 
     left = shell_width // 2 - 16
     right = shell_width // 2 - 17
@@ -222,4 +221,3 @@ def main():
 
 
 main()
-
