@@ -8,7 +8,7 @@
 
 <br>
 
-cleaner — offers both regular and deep cleaning
+cleaner — Offers both regular and deep cleaning
 
 <br>
 
@@ -45,7 +45,7 @@ python cleaner.py
 
 <br>
 
-cleaner — есть обычная и глубокая очистка
+cleaner — Обеспечивает как обычную так и глубокую очистку
 
 <br>
 
