@@ -1,6 +1,8 @@
 # 🌟 Windows Cleaner
 
+
 <br><br>
+
 
 ## en
 
@@ -10,7 +12,7 @@ cleaner — offers both regular and deep cleaning
 
 <br>
 
-## 🚀 Possibilities
+## 🚀 Features
 
 - ✅ Regular and deep cleaning
 - ⚙️ Easy to use and expand
@@ -47,7 +49,7 @@ cleaner — есть обычная и глубокая очистка
 
 <br>
 
-## 🚀 Возможности
+## 🚀 Функции
 
 - ✅ Обычная и глубокая очистка
 - ⚙️ Простой в использовании и расширяемый
