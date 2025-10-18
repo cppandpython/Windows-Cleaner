@@ -24,7 +24,7 @@ cleaner — Offers both regular and deep cleaning
 
 ```bash
 # Clone the repository
-git clone https://github.com/cpythonkiller/Windows-Cleaner.git
+git clone https://github.com/cppandpython/windows_cleaner.git
 
 # Install depending
 pip install elevate
@@ -61,7 +61,7 @@ cleaner — Обеспечивает как обычную так и глубо�
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/cpythonkiller/Windows-Cleaner.git
+git clone https://github.com/cppandpython/windows_cleaner.git
 
 # Установи зависимости
 pip install elevate
